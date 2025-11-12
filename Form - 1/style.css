@@ -64,5 +64,5 @@ h1{
     background: linear-gradient(45deg , var(--sub-color),var(--main-color));
     width: 700px;
     height: 600px;
-    
+    border: 1px solid white;
 }
